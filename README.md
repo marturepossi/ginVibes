@@ -1,2 +1,6 @@
 # ginVibes
 GinVibes es un sitio web de e-commerce desarrollado en PHP con MySQL, enfocado en la venta de gin y productos relacionados. La plataforma permite a los usuarios navegar por un catálogo de gins, visualizar detalles de cada producto y agregarlos a un carrito de compras. Los usuarios pueden registrarse, autenticarse y gestionar sus compras a través de un perfil personal. Además, el sitio cuenta con un panel de administración, donde los gestores pueden administrar los productos, gestionar usuarios y revisar el historial de compras. Implementa programación orientada a objetos y una estructura modular en PHP, utilizando include/require para la carga dinámica de secciones y PDO para la interacción segura con la base de datos. La interfaz está diseñada con HTML5 y CSS, garantizando una experiencia visual atractiva y una navegación intuitiva. Aunque actualmente no se requiere pasarela de pagos, la funcionalidad de completar compras permite registrar transacciones en la base de datos, vaciando automáticamente el carrito tras la confirmación de compra.
+
+Para acceder al panel de administración, usa las siguientes credenciales (pueden cambiarse en la base de datos):
+Usuario: zar@gmail.com
+Contraseña: asdasd
